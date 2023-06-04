@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:15px
+    
+}
+.left{
+    width:40%;
+   padding-left:30px ;
+
+}
+.left h2{
+    font-weight:900;
+}
+.left p{
+    color:grey
+}
+.right{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 60%;
+}
+.right a {
+    text-decoration: none;
+    color:black;
+    cursor: pointer;
+}

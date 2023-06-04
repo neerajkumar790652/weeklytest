@@ -1,0 +1,25 @@
+.container1 h2{
+    text-align: center;
+    margin-top: 20px;
+}
+.main{
+    display: flex;
+    margin-top: 50px;
+    width:95%;
+    margin-left: 20px;
+}
+.submain{
+    text-align: center;
+    margin: 10px;
+}
+.submain img{
+    margin-top: 20px;
+}
+.submain h3,.submain p{
+    margin-top:40px;
+   
+}
+.submain p{
+    color:grey;
+    
+}

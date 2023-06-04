@@ -1,0 +1,36 @@
+.upperbody{    background-image: url("https://media.istockphoto.com/id/1178499842/photo/businessman-giving-thumbs-up.webp?b=1&s=170667a&w=0&k=20&c=7ljpRcfjyKGGo2QV_HY9QJASLjz_EikPBCgPtEGSbKQ=");
+display: flex;
+justify-content: center;
+align-items: center;
+     height:400px; 
+    width: 100%;
+    /* background-attachment:; */
+    background-position:center;
+    background-repeat: no-repeat; 
+    background-size:cover;
+}
+.inner{
+    width:50%;
+    text-align: center;
+    color:white;
+
+}
+.inner h1{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.inner p{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.inner button{
+    margin-top: 20px;
+    width:150px;
+    height:35px;
+    font-size: large;
+    background-color: rgb(61, 61, 173);
+    border:none;
+    outline: none;
+    color:white;
+    border-radius:20px;
+}
